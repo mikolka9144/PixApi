@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PixApi\PixApi.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PixBlocks">
+      <HintPath>..\Dependencies\PixBlocks.exe</HintPath>
+    </Reference>
+    <Reference Include="PixBlocks.Server.DataModels">
+      <HintPath>..\Dependencies\PixBlocks.Server.DataModels.dll</HintPath>
+    </Reference>
+    <Reference Include="PixBlocks.ServerFasade">
+      <HintPath>..\Dependencies\PixBlocks.ServerFasade.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o+1LNOOrF9qAcLubm/wpFnVnVIf35qX6ArW3VKpZLg45m9vcd366dYu0SMYbVunrW1biDfoXQ+hbIJtclf63IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikol\\source\\repos\\PixApi\\Template\\Template.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikol\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mikol\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

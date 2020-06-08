@@ -1,0 +1,6 @@
+from System.Reflection import Assembly
+from System.IO import File 
+code = Assembly.Load(File.ReadAllBytes("C:\\Your\\Path\\here"))
+clas = code.GetType("PixCode.Init");
+clas.GetMethod("Execute").Invoke(None,None);
+"game."

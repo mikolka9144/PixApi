@@ -1,0 +1,17 @@
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixApi.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixApi.pdb
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixBlocks.exe
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixBlocks.Server.DataModels.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixBlocks.ServerFasade.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\IronPython.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\Microsoft.Scripting.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixBlocks.Tools.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\itextsharp.dll
+C:\Users\mikol\source\repos\PixApi\bin\Debug\PixBlocks.exe.config
+C:\Users\mikol\source\repos\PixApi\obj\Debug\PixApi.csprojAssemblyReference.cache
+C:\Users\mikol\source\repos\PixApi\obj\Debug\PixApi.csproj.CoreCompileInputs.cache
+C:\Users\mikol\source\repos\PixApi\obj\Debug\PixApi.csproj.CopyComplete
+C:\Users\mikol\source\repos\PixApi\obj\Debug\PixApi.dll
+C:\Users\mikol\source\repos\PixApi\obj\Debug\PixApi.pdb
