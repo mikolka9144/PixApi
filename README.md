@@ -1,5 +1,5 @@
 # PixApi
-Biblioteka pozwalająca na programowanie w PixBlocks w języku Python
+Biblioteka pozwalająca na programowanie w PixBlocks w języku C#
 
 Jak zainstalować i używać mojej biblioteki.
 
